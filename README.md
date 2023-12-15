@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Aleksei
+#### I am iOS developer
+---
+I make iOS apps in Swift.
 
-<!--
-**yakushef/yakushef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frameworks: Foundation / UIKit / SwiftUI / AVFoundation / Combine / Kingfisher
+Layout: Code Auto Layout / Storyboard & XIB / SwiftUI
+Data: CoreData / UserDefaults / Keychain / SwiftKeychainWrapper / Realm
+Networking: URLSession + Async/Await & Combine / REST / Proxyman / Charles Proxy
 
-Here are some ideas to get you started:
+- 🌦️ I’m currently working on SwuftUI + Combine weather app with shaders for visualization 
+- 🎓 I’m currently learning SwiftUI and Structured Concurrency 
+- 🏗️ I’m collaborating on Cherry app 
+- 📫 Email: av.yakush@gmail.com
+- 📲 Telegram: [@yakushef](https://t.me/yakushef)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yakushef&show_icons=true)  
+
