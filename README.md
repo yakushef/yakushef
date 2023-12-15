@@ -3,7 +3,7 @@
 
 - 🌦️ I’m currently working on SwuftUI + Combine weather app with shaders for visualization 
 - 🎓 I’m currently learning SwiftUI and Structured Concurrency 
-- 🏗️ I’m collaborating on Cherry app 
+- 🏗️ I’m collaborating on Cherry app for tracking promotions and discounts
 - 📫 Email: av.yakush@gmail.com
 - 📲 Telegram: [@yakushef](https://t.me/yakushef)
 
