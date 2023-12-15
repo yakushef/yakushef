@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Aleksei
-#### I am iOS developer
+#### I am an iOS developer
 ---
 I make iOS apps in Swift.
 
