@@ -9,21 +9,11 @@
 
 ---
 
-- Tools:
-  
-  Swift / Git / XCode / Proxyman / Charles Proxy
-- Frameworks:
-  
-  Foundation / UIKit / SwiftUI / AVFoundation / Combine / Kingfisher
-- Layout:
-  
-  Code Auto Layout / Storyboard & XIB / SwiftUI
-- Data:
-  
-  CoreData / UserDefaults / Keychain / SwiftKeychainWrapper / Realm
-- Networking:
-  
-  URLSession + Async/Await & Combine / REST
+- Tools:  Swift / Git / XCode / Proxyman / Charles Proxy
+- Frameworks:   Foundation / UIKit / SwiftUI / AVFoundation / Combine / Kingfisher
+- Layout:   Code Auto Layout / Storyboard & XIB / SwiftUI
+- Data:   CoreData / UserDefaults / Keychain / SwiftKeychainWrapper / Realm
+- Networking:   URLSession + Async/Await & Combine / REST
 
 ---
 
