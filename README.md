@@ -23,9 +23,9 @@
 - [Fake NFT](https://github.com/yakushef/iOS-FakeNFT) (MVVM, UIKit, Auto Layout)
 - [Tracker](https://github.com/yakushef/Tracker) (MVVM, MVP, UIKit, AutoLayout, CoreData)
 - [Playful Tasks](https://github.com/yakushef/EmojiSchedule) (MVC, UIKit, Storyboard + XIB, Realm)
-- [Shady Weather](https://github.com/yakushef/shady-weather) (MVVM, SwiftUI, Combine, GLSL)
-- [ImageFeed](https://github.com/yakushef/ImageFeed) (MVP, UIKit, Storyboard + Auto Layout)
-- [MovieQuiz](https://github.com/yakushef/MovieQuiz-ios) (MVP, UIKit, Storyboard)
+- [Shady Weather (Open Weather API)](https://github.com/yakushef/shady-weather) (MVVM, SwiftUI, Combine, GLSL)
+- [ImageFeed (Unsplash API](https://github.com/yakushef/ImageFeed) (MVP, UIKit, Storyboard + Auto Layout)
+- [MovieQuiz (IMDB API)](https://github.com/yakushef/MovieQuiz-ios) (MVP, UIKit, Storyboard)
 
 ---
 
