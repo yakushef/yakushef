@@ -10,8 +10,8 @@
 ---
 
 #### Мой стек:
-- Инструменты:  Swift / Git / XCode / Proxyman / Charles Proxy
-- Библиотеки:   Foundation / UIKit / SwiftUI / AVFoundation / Combine / Kingfisher / XCTest / SnapshotTesting
+- Инструменты:  Swift / Git / XCode / Proxyman / Charles Proxy / Cocoapods / SPM
+- Библиотеки:   Foundation / UIKit / SwiftUI / AVFoundation / Combine / Kingfisher / XCTest / SnapshotTesting / Яндекс.Метрика
 - Верстка:   Code Auto Layout / Storyboard & XIB / SwiftUI
 - Работа с данными:   CoreData / UserDefaults / Keychain / SwiftKeychainWrapper / Realm
 - Работа с сетью:   URLSession + Async/Await & Combine / REST / OAuth2
