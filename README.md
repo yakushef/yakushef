@@ -19,11 +19,11 @@
 ---
 
 #### Мои проекты:
-- [Черри](https://github.com/Mobile-app-promotions-and-discounts/IOSApp) (MVVM + C, Combine, UIKit, Auto Layout, AVFoundation)
-- [Playful Tasks](https://github.com/yakushef/EmojiSchedule) (MVC, UIKit, Storyboard + XIB, Realm)
-- [Shady Weather](https://github.com/yakushef/shady-weather) (MVVM, SwiftUI, Combine, GLSL)
+<!-- - [Черри](https://github.com/Mobile-app-promotions-and-discounts/IOSApp) (MVVM + C, Combine, UIKit, Auto Layout, AVFoundation) -->
 - [Fake NFT](https://github.com/yakushef/iOS-FakeNFT) (MVVM, UIKit, Auto Layout)
 - [Tracker](https://github.com/yakushef/Tracker) (MVVM, MVP, UIKit, AutoLayout, CoreData)
+- [Playful Tasks](https://github.com/yakushef/EmojiSchedule) (MVC, UIKit, Storyboard + XIB, Realm)
+- [Shady Weather](https://github.com/yakushef/shady-weather) (MVVM, SwiftUI, Combine, GLSL)
 - [ImageFeed](https://github.com/yakushef/ImageFeed) (MVP, UIKit, Storyboard + Auto Layout)
 - [MovieQuiz](https://github.com/yakushef/MovieQuiz-ios) (MVP, UIKit, Storyboard)
 
