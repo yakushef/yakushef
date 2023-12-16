@@ -1,20 +1,20 @@
-## Hi there 👋, my name is Aleksei
-#### I am an iOS developer
+## Привет 👋, я Алексей
+#### Я iOS разработчик
 
-- 🌦️ I’m currently working on SwuftUI + Combine weather app with shaders for visualization 
-- 🎓 I’m currently learning SwiftUI and Structured Concurrency 
-- 🏗️ I’m collaborating on Cherry app for tracking promotions and discounts
+- 🌦️ Работаю над приложением погоды на SwuftUI + Combine с использованием шейдеров для анимаций
+- 🎓 Сейчас я изучаю SwiftUI и Structured Concurrency 
+- 🏗️ Работаем в команде над [приложением](https://github.com/Mobile-app-promotions-and-discounts/IOSApp) для отслеживания скидок на товары по каталогу и штрих-коду
 - 📫 Email: av.yakush@gmail.com
 - 📲 Telegram: [@yakushef](https://t.me/yakushef)
 
 ---
 
-- Tools:  Swift / Git / XCode / Proxyman / Charles Proxy
-- Frameworks:   Foundation / UIKit / SwiftUI / AVFoundation / Combine / Kingfisher
-- Layout:   Code Auto Layout / Storyboard & XIB / SwiftUI
-- Data:   CoreData / UserDefaults / Keychain / SwiftKeychainWrapper / Realm
-- Networking:   URLSession + Async/Await & Combine / REST
-
+#### Мой стек:
+- Инструменты:  Swift / Git / XCode / Proxyman / Charles Proxy
+- Библиотеки:   Foundation / UIKit / SwiftUI / AVFoundation / Combine / Kingfisher
+- Верстка:   Code Auto Layout / Storyboard & XIB / SwiftUI
+- Работа с данными:   CoreData / UserDefaults / Keychain / SwiftKeychainWrapper / Realm
+- Работа с сетью:   URLSession + Async/Await & Combine / REST
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yakushef&show_icons=true)  
