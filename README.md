@@ -19,7 +19,7 @@
 ---
 
 #### Мои проекты:
-- [Черри](https://github.com/Mobile-app-promotions-and-discounts/IOSApp) (MVVM + C, Combine, UIKit, Auto Layout, AVFoundation)
+- [Черри](https://github.com/Mobile-app-promotions-and-discounts/IOSApp) (MVVM + C, Combine, UIKit, SnapKit, AVFoundation)
 - [Fake NFT](https://github.com/yakushef/iOS-FakeNFT) (MVVM, UIKit, Auto Layout)
 - [Tracker](https://github.com/yakushef/Tracker) (MVVM, MVP, UIKit, AutoLayout, CoreData)
 - [Playful Tasks](https://github.com/yakushef/EmojiSchedule) (MVC, UIKit, Storyboard + XIB, Realm)
