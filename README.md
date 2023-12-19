@@ -10,16 +10,16 @@
 ---
 
 #### Мой стек:
-- Инструменты:  Swift / Git / XCode / Proxyman / Charles Proxy / Cocoapods / SPM
+- Инструменты:  Swift / Git / XCode / Proxyman / Charles Proxy / Cocoapods / SPM / SwiftLint
 - Библиотеки:   Foundation / UIKit / SwiftUI / AVFoundation / Combine / Kingfisher / XCTest / SnapshotTesting / Яндекс.Метрика
-- Верстка:   Code Auto Layout / Storyboard & XIB / SwiftUI
+- Верстка:   Code Auto Layout / Storyboard & XIB / SwiftUI / SnapKit
 - Работа с данными:   CoreData / UserDefaults / Keychain / SwiftKeychainWrapper / Realm
 - Работа с сетью:   URLSession + Async/Await & Combine / REST / OAuth2
 
 ---
 
 #### Мои проекты:
-<!-- - [Черри](https://github.com/Mobile-app-promotions-and-discounts/IOSApp) (MVVM + C, Combine, UIKit, Auto Layout, AVFoundation) -->
+- [Черри](https://github.com/Mobile-app-promotions-and-discounts/IOSApp) (MVVM + C, Combine, UIKit, Auto Layout, AVFoundation)
 - [Fake NFT](https://github.com/yakushef/iOS-FakeNFT) (MVVM, UIKit, Auto Layout)
 - [Tracker](https://github.com/yakushef/Tracker) (MVVM, MVP, UIKit, AutoLayout, CoreData)
 - [Playful Tasks](https://github.com/yakushef/EmojiSchedule) (MVC, UIKit, Storyboard + XIB, Realm)
